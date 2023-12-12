@@ -1,5 +1,6 @@
+
 const Page = ()=>{
-    return <p>Welcome To Customr page</p>
+    return <p>Customers</p>
 }
 
 export default Page
